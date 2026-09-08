@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="#0B1B3D"/>
+  <circle cx="50" cy="50" r="34" stroke="#FDB813" stroke-width="6" stroke-dasharray="8 6"/>
+  <!-- Car Silhouette -->
+  <path d="M28 56 L34 44 C36 40 40 38 45 38 L55 38 C60 38 64 40 66 44 L72 56 C74 57 75 59 75 62 L75 66 C75 68 73 70 71 70 L69 70 C67 67 64 65 60 65 C56 65 53 67 51 70 L49 70 C47 67 44 65 40 65 C36 65 33 67 31 70 L29 70 C27 70 25 68 25 66 L25 62 C25 59 26 57 28 56 Z" fill="#FDB813"/>
+  <circle cx="39" cy="69" r="4" fill="#0B1B3D"/>
+  <circle cx="61" cy="69" r="4" fill="#0B1B3D"/>
+</svg>
